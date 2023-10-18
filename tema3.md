@@ -35,6 +35,8 @@ else:
 Вариант 1:
 ![image](https://github.com/MatSs1/program_ingener/assets/106054898/b0b64209-376d-4945-9f5f-561f9da4baa3)
 Вариант 2:
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/f9965de7-59f7-41cd-9147-4c950fa07bdd)
+
 
 ## Задание №2
 ### Напишите программу, которая будет определять значения переменной меньше 0, больше 0 и меньше 10 или больше 10. это нужно реализовать при помощи одной переменной, значение которой будет вводится через консоль, а также при помощи конструкций if, elif, else.
@@ -51,11 +53,11 @@ else:
 
 #### Результат:
 Вариант 1:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/a68cfe08-5a0b-4a9c-8480-43d90e57d70a)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/900bfbf1-eb47-4869-a7c4-b9a6a60954ad)
 Вариант 2:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/9ad27a5f-82fa-44bf-a610-030a9af27cca)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/69d8c5c5-656f-40c9-b1f8-f64d3fc62816)
 Вариант 3:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/8d5c6456-498f-442e-a04c-34a7b646f38b)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/22c0697b-e1ca-4469-9f55-b4fdd6cff6ed)
 
 ## Задание №3
 ### Напишите программу, в которой будет проверяться есть ли переменная в указанном массиве используя логический оператор in. Самостоятельно посмотрите, как работает программа со значениями которых нет в массиве numbers.
@@ -70,9 +72,9 @@ else:
 ```
 #### Результат:
 Вариант 1:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/4c781a3c-709a-4944-8615-8a4a8ae3d947)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/e7f5d155-5913-4a47-8857-61e18035c264)
 Вариант 2:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/e983bc41-47f6-4f8b-bf41-7758c2395bc6)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/415568fb-78b7-41c4-95ef-7fc8b752f080)
 
 ## Задание №4
 ### Напишите программу, которая будет определять находится липеременная в указанном массиве и если да, то проверьте четная она или нет. Самостоятельно протестируйте данную программу с разными значениями переменной value.
@@ -90,11 +92,11 @@ else:
 ```
 #### Результат:
 Вариант 1:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/b0fd4465-0950-4462-a2c8-1a08a717b253)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/0becda91-c1e1-4248-b066-01d4da6b3378)
 Вариант 2:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/785a247f-7c81-4ba6-b120-201104b86679)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/e2cdcbcd-aa52-433c-9507-3ceeec0bf0fa)
 Вариант 3:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/fabc4334-420f-4ed0-b77d-709881d547d2)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/0dcb222d-4453-4ca4-b16c-32a779fdecfb)
 
 ## Задание №5
 ### Напишите программу, в которой циклом for значения переменной i будут меняться от 0 до 10 и посмотрите, как разные виды сравнений и операций работают в цикле.
@@ -114,7 +116,7 @@ for i in range(10):
         break
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/98fe9d29-ddc8-4116-8be3-4ff9fe736cb1)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/71cf69a2-6c82-4a55-9d71-cdf7dcf9937c)
 
 ## Задание №6
 ### Напишите программу, в которой при помощи цикла for определяется есть ли переменная value в строке string и посмотрите, как работает оператор else для циклов. Самостоятельно посмотрите, что выведет программа, если значение переменной value оказалось в строке string. 
@@ -132,9 +134,9 @@ else:
 ```
 #### Результат:
 Вариант 1:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/98322c74-dbfd-4ced-a4ea-84ee3567f7ae)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/bedea50c-7305-4e87-b137-11f108ce0050)
 Вариант 2:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/4f2a62e2-74e7-493d-8a9d-8fdcd85cef65)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/d1a9deac-d105-4f48-a5b3-8036e1c033b4)
 
 ## Задание №7
 ### Напишите программу, в которой вы наглядно посмотрите, как работает цикл for проходя в обратном порядке, то есть, к примеру не от 0 до 10, а от 10 до 0. В уже готовой программе показано вычитание из 100, а вам во время реализации программы будет необходимо придумать свой вариант применения обратного цикла
@@ -146,7 +148,7 @@ for i in range(10, -1, -1):
     print(i, value)
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/e05b7ec1-e6b5-4e88-a8d5-aedc5b558ff9)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/58a8624c-3431-4b9c-ba91-120f145840b5)
 
 ## Задание №8
 ### Напишите программу используя цикл while, внутри которого есть какие-либо проверки, но быть осторожным, поскольку циклы while при неправильно написанных условиях могут становится бесконечными, как указано в примере далее.
@@ -164,9 +166,9 @@ while value < 100:
 ```
 #### Результат:
 Бесконечный цикл:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/54124be7-b7cc-47ac-bb0f-d61012a7ac9b)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/c7a14fcc-6050-4d10-9f37-7079caf89694)
 Конечный цикл:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/9d5b95e5-e200-4090-805c-56d78cd84d13)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/52407bc6-aa08-4e0f-8a7e-f0349b6e94e9)
 
 ## Задание №9
 ### Напишите программу с использованием вложенных циклов и одной проверкой внутри них. Самое главное, не забудьте, что нельзя использовать одинаковые имена итерируемых переменных, когда вы используете вложенные циклы
@@ -182,7 +184,7 @@ for i in range(10):
 print(value)
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/85e34681-ab1e-49ce-9ad5-14fdb6ca977a)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/b4b2b65c-2e0f-4cc0-ab58-be538f454e87)
 
 ## Задание №10
 ### Напишите программу с использованием flag, которое будет определять есть ли нечетное число в массиве. В данной задаче flag выступает в роли индикатора встречи нечетного числа в исходном массиве, четных чисел.
@@ -200,7 +202,7 @@ else:
     print('В массиве все числа четные')
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/1c37a60a-0f10-42ce-8772-c17af9cca912)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/cd451aee-2a8b-4028-b60d-3af86e05b70d)
 
 ## Самостоятельная работа №1
 ## Задание №1
@@ -214,9 +216,9 @@ for i in range(2):
 print(value)
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/069b5880-bed0-49c5-b462-c7e11891057b)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/ab989f47-bed7-4f91-8c08-7b277c7c012c)
 
-#### Вывод: В данном коде цикл 'for' дважды прогоняет число 1 через две математические операции, *5 и +1, после чего подает результат, равный 31, на вывод.
+#### Вывод: В данном коде цикл 'for' дважды прогоняет число 1 через две математические операции, *5 и +1, после чего подает результат.
 
 ## Задание №2
 ### Напишите программу, которая фразу «Hello World» выводит в обратном порядке, и каждая буква находится в одной строке консоли. При этом необходимо обязательно использовать любой цикл, а также программа должна занимать не более 3 строк в редакторе кода.
@@ -227,7 +229,7 @@ for i in range(len(sentence)-1, -1, -1):
     print(sentence[i])
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/20c685ec-4291-44af-a01b-23847335f834)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/58903518-7183-4c1b-a18b-d86eb2488523)
 
 #### Вывод: В данном коде, с помощью отрицательного щшага, по одной выводим буквы из заданного предложения в обратном направлении.
 
@@ -247,15 +249,15 @@ elif 6 <= number <= 10:
 ```
 #### Результат:
 Вариант 1:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/c9299d40-aa87-45dd-be2b-c93b4de801d8)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/c25c90b9-a34b-4a46-81dc-17dd7720fafb)
 Вариант 2:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/24cd70ec-97c5-4f4f-b101-e864abe38aee)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/1a1840e1-8598-4f62-9889-39cc81fb4592)
 Вариант 3:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/9471101a-7c61-4182-b2d3-7f29ab779ffd)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/7ce9472d-fcff-4992-9047-52d29abe4363)
 Вариант 4:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/754e486c-4949-4813-8785-6eebcdb21b93)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/604394a1-6749-41d7-88d3-95d93ec9e38a)
 
-#### Вывод: После получения введенного числа, код проверяет выполнения первого условия (число должно входить в диапазон от 0 до 10), после этого, код сверяет введенное число с тремя диапазонами по очереди и выводит итоговый результат в виде текста.
+#### Вывод: Вводится число, код проверяет выполнения первого условия, после этого, код сверяет введенное число с тремя диапазонами по очереди и выводит итоговый результат .
 
 ## Задание №4
 ### Манипулирование строками. Напишите программу на Python, которая принимает предложение (на английском) в качестве входных данных от пользователя. Выполните следующие операции и отобразите результаты: Выведите длину предложения, Переведите предложение в нижний регистр, Подсчитайте количество гласных (a, e, i, o, u) в предложении, Замените все слова "ugly" на "beauty", Проверьте, начинается ли предложение с "The" и заканчивается ли на "end". Проверьте работу программы минимум на 3 предложениях, чтобы охватить проверку всех поставленных условий.
@@ -278,14 +280,17 @@ if sentence3.endswith('end') == True:
 else: print("Предложение не заканчивается на End")
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/835dcf0e-d643-4437-a207-9971b80bfaf4)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/8f43b061-8d4f-4f74-84dc-a40e6115922d)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/5723bb74-eaa0-4b28-a283-2a99608a114c)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/8ac430a7-fc3c-43d6-bdba-0a8e2d36d4f1)
 
-#### Вывод: Код, после получения введенного предложения, сначала находит его длину с помощью метода 'len'. Затем переводит его в нижний регистр посредством метода 'lower' и выводит его в консоль. Далее считает количество каждой гласной с помощью метода 'count', складывает каждое полученное число и выводит итог в консоль. На следующем шаге с помощью метода 'replace' заменяет каждое слово 'ugly' на слово 'beauty' и выводит в консоль измененное предложение. После этого запускает проверку наличия в начале предложения слова 'The' и в конце слова 'End'. В результате выводит два итога своей проверки.
+
+#### Вывод: после получения введенного предложения, сначала находит его длину с помощью метода 'len'. Затем переводит его в нижний регистр посредством метода 'lower' и выводит его в консоль. Далее считает количество каждой гласной с помощью метода 'count', складывает каждое полученное число и выводит итог в консоль. На следующем шаге с помощью метода 'replace' заменяет каждое слово 'ugly' на слово 'beauty' и выводит в консоль измененное предложение. После этого запускает проверку наличия в начале предложения слова 'The' и в конце слова 'End'. В результате выводит два итога своей проверки.
 ## Задание №5
 ### Составьте программу, результатом которой будет данный вывод в консоль.
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/b49f6215-3d15-4bcd-860d-85ebd98aad49)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/b0f23a07-1f99-4099-82a7-b4b55aef4063)
 ### Программу нужно составить из данных строк кода:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/a9356c2b-06a1-4654-97f6-4f48c0f8308a)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/f347d314-d28e-4b34-830b-6eeb3fa12a77)
 ### Строки кода можно использовать только один раз. Не обязательно использовать все строки кода.
 #### Выполнение:
 ```python
@@ -302,6 +307,6 @@ while ' world' not in string:
     counter += 1
 ```
 #### Результат:
-![image](https://github.com/legendarykk/Programmnaya_Inzheneriya/assets/146570109/e94f769b-f0e7-412d-8cfc-8fd2a9840f41)
+![image](https://github.com/MatSs1/program_ingener/assets/106054898/1033c646-66fd-421f-8f12-d29b3c4585d0)
 
-#### Вывод: Мы объявляем строковую переменную с именем "string", массив чисел под названием "values" и устанавливаем счетчик "counter" равным 0. Затем, в рамках цикла "while", выполняется следующий процесс: пока строка "string" не содержит слово "world" и значение счетчика "counter" меньше 10, программа выводит сначала "hello world" на одной строке, а затем "hello" на следующей строке. Когда значение счетчика достигнет 10, будет выведена фраза "hello world", а "hello" больше не будет выводиться, после чего цикл завершит свою работу.
+#### Вывод: Объявляем строковую переменную с именем "string", массив чисел под названием "values" и устанавливаем счетчик "counter" равным 0. Затем, в рамках цикла "while", выполняется следующий процесс: пока строка "string" не содержит слово "world" и значение счетчика "counter" меньше 10, программа выводит сначала "hello world" на одной строке, а затем "hello" на следующей строке. Когда значение счетчика достигнет 10, будет выведена фраза "hello world", "hello" больше не выводится,после чего цикл завершит работу.
